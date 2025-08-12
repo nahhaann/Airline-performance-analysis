@@ -27,5 +27,7 @@ This project analyzes real-world airline performance data sourced from data.gov.
 ## 🏁 Conclusion
 The Airline Performance Analysis project applies Descriptive and Diagnostic Analysis to provide a clear picture of airline operational performance and flight delays. By identifying both what is happening (descriptive) and why it’s happening (diagnostic), the study delivers actionable insights that can help airlines improve punctuality, optimize resources, and enhance passenger satisfaction.
 
+project : https://drive.google.com/drive/folders/1uJgEsHyELdaZuxs-UrkCxM6BIOm03Y9V
+
 
 # Airline-performance-analysis
